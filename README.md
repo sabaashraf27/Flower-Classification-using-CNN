@@ -55,5 +55,5 @@ The model achieved approximately 81% accuracy during training and validation.
 ## Author
 
 Saba Ashraf
-AI/ML Enthusiast | Prompt Engineer | Graphic Designer
+AI/ML Enthusiast | Prompt Engineer 
 
